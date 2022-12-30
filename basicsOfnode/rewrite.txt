@@ -1,0 +1,22 @@
+[
+    {
+        "name": "priyanka Gohil",
+        "age": 25,
+        "designation": "developer"
+    },
+    {
+        "name": "sanket Bankar",
+        "age": 25,
+        "designation": "developer"
+    },
+    {
+        "name": "ajay kumawat",
+        "age": 25,
+        "designation": "developer"
+    },
+      {
+        "name": "dhanshree kolskar",
+        "age": 25,
+        "designation": "developer"
+    }
+]
